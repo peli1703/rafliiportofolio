@@ -1,0 +1,92 @@
+body{
+    background-color: #CDC9C3;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
+
+:root {
+    --merah:rgb(85, 85, 85);
+    --hijau: white;
+}
+
+.myportofolio {
+    font-family: 'Bonheur Royale', cursive;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background-color: var(--merah);
+    padding: auto;
+    margin: 20px 20px 20px 0px;
+    border-radius: 10px;
+}
+
+.skillpasport{
+    font-family: 'Bonheur Royale', cursive;
+}
+.inspirasi{
+    font-family: 'Bonheur Royale', cursive;
+}
+.prestasi{
+    font-family: 'Bonheur Royale', cursive;
+}
+.pengalaman{
+    font-family: 'Bonheur Royale', cursive;
+}
+.name{
+    font-family: 'Bonheur Royale', cursive;
+    background-color:#CDC9C3;
+    font-size: 17px;
+    padding: 20px 20px 20px 20px; 
+    margin: 20px 20px 20px 0px;
+    border: 10px solid rgb(85, 85, 85);; 
+    border-radius: 10px;
+}
+
+.datadiri{
+    font-family: 'Bonheur Royale', cursive;
+}
+
+.tabel{
+    font-family: 'Bonheur Royale', cursive;
+}
+
+.name1 {
+    font-family: 'Bonheur Royale', cursive;
+    color: var(--hijau);
+    background-color: var(--merah);
+    padding: auto;
+    margin: 20px 20px 20px 0px;
+    border-radius: 10px;
+}
+
+.name2 {
+    font-family: 'Bonheur Royale', cursive;
+    color: var(--hijau);
+    background-color: var(--merah);
+    padding: auto;
+    margin: 20px 20px 20px 0px;
+    border-radius: 10px;
+}
+
+.name3 {
+    font-family: 'Bonheur Royale', cursive;
+    color: var(--hijau);
+    background-color: var(--merah);
+    padding: auto; 
+    margin: 20px 20px 20px 0px;
+    border-radius: 10px;
+}
+
+.name4 {
+    font-family: 'Bonheur Royale', cursive;
+    color: var(--hijau);
+    background-color: var(--merah);
+    padding: auto; 
+    margin: 20px 20px 20px 0px;
+    border-radius: 10px;
+}
+
+h3 {
+margin-left: 20px;
+}
